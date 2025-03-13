@@ -16,7 +16,7 @@ b-parasite is an open source soil moisture and ambient temperature/humidity/ligh
 * Open hardware and open source design
 
 # Software
-This repository also hosts a few different firmware samples for b-parasite.
+This repository also hosts a few different firmware samples for b-parasite..
 
 |Sample|Description|Extra Documentation|
 |---|---|---|
